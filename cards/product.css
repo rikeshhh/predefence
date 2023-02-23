@@ -1,9 +1,8 @@
 body{
     margin: 0;
     font-family:Nunito Sans;
-    background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
     padding: 50px 50px;
-    color: white;
+    color: black;
     }
     h3{
     text-align: center;
